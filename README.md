@@ -14,13 +14,8 @@
 ###
 
 ### 🚀 About Me:
-- 🖥️ Passionate about software development, focusing on Java, Kotlin, and Android.
+- 🖥️ Passionate about software development, focusing on Java, SQL, Python, Kotlin, and Android.
 - 🔥 Experienced in JavaFX, Hibernate, Firebase, and web development.
-- 🎲 Founder of **Encartados SC**, a board game, TCG, and manga store launching in Tenerife.
-- 🕹️ Currently building **Roll or Die**, a dice game app for Android.
-- ❤️ Developing a **Tinder-style dating app** using Firebase.
-- 📩 Working on **Mercury & Java Email Management System**.
-
 ###
 
 ### 🛠️ Tech Stack:
