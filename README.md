@@ -1,5 +1,21 @@
 <h2 align="left">Hi 👋! I'm Jorge A. Herrero Santana</h2>
 
+### 👨‍💻 About Me
+
+I am Jorge A. Herrero Santana, a passionate **Software Developer & Tech Enthusiast** from **Tenerife, Spain**.  
+I have experience working with multiple technologies, mainly **Java, Kotlin, Python**, and **web development**.  
+My main interests include **backend development, databases, and Android development**.  
+
+💡 **I love learning new technologies and working on innovative projects.**  
+📚 **Currently exploring:** Cloud Computing & DevOps.  
+🚀 **Hobbies:** Coding, gaming, and exploring open-source projects.  
+
+### 🌱 My Goals for 2025:
+✔ Improve my knowledge of **Microservices & Distributed Systems**.  
+✔ Contribute more to **open-source projects**.  
+✔ Develop and publish a **personal app on the Play Store**.
+
+
 ###
 
 <div align="center">
