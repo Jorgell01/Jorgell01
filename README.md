@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jorge A. Herrero Santana and I'm a Software Developer & Tech Enthusiast, from Tenerife, Spain.</h2>
+<h2 align="left">Hi 👋! I'm Jorge A. Herrero Santana</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/9kbs8a.gif" /> 
 
-###
+### Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
 </div>
 
+### Connect with me! 
 
 ###
 
