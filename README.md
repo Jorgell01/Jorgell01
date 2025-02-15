@@ -25,9 +25,7 @@ My main interests include **backend development, databases, and Android developm
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/9kbs8a.gif" />
-</div>
+<img align="right" height="150" src="https://i.imgflip.com/9kbs8a.gif" /> 
 
 ### Languages
 
