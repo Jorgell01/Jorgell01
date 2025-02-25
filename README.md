@@ -7,7 +7,7 @@ I have experience working with multiple technologies, mainly **Java, Kotlin, Pyt
 My main interests include **backend development, databases, and Android development**.  
 
 💡 **I love learning new technologies and working on innovative projects.**  
-📚 **Currently exploring:** Cloud Computing & DevOps.  
+📚 Currently exploring: JavaScript, PHP, HTML, CSS, React, Angular, SEO  
 🚀 **Hobbies:** Coding, gaming, and exploring open-source projects.  
 
 ### 🌱 My Goals for 2025:
