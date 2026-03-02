@@ -9,20 +9,7 @@ My main interests include **backend development, databases, and Android developm
 💡 **I love learning new technologies and working on innovative projects.**  
 📚 **Currently exploring:** JavaScript, PHP, HTML, CSS, React, Angular, SEO  
 🚀 **Hobbies:** Coding, gaming, and exploring open-source projects.  
-
----
-
-### 🌱 My Goals for 2025:
-
-- 🔍 Deepen my knowledge of mobile app development (Android, iOS, and cross-platform frameworks like Flutter or React Native).  
-- 📂 Build a solid portfolio with personal and collaborative projects.  
-- 🏗️ Learn advanced concepts of software architecture (MVC, MVVM, and Clean Architecture).  
-- ☁️ Obtain certifications in cloud platforms (AWS, Google Cloud, or Azure).  
-- 🔧 Improve my skills in version control using Git and contribute to open-source projects.  
-- 🚀 Learn DevOps fundamentals for continuous integration and deployment (CI/CD).  
-- 📱 Develop and publish an app on the Play Store or App Store.  
-- 💾 Master database management with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firebase).  
-
+ 
 ---
 
 ### 📊 GitHub Stats
